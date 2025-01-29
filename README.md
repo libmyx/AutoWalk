@@ -16,5 +16,11 @@ Since this is a Work-In-Progress MOD, the zip file has not been uploaded to Nexu
    dotnet build
    ```
 
+# TODOs
+- [ ] Support UI parameter selection (ratio)
+- [ ] Move output to debug mode
+- [ ] Add multiplayer support: waiting for a friend
+- [ ] Add horse support: horse cabin not constructed
+
 # Reference
 Referred to some implementations in [SDV-FastTravel](https://github.com/Mckenon/SDV-FastTravel). Created a new MOD here because I would like to add some time punishment.
