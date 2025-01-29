@@ -1,0 +1,175 @@
+{
+    "BalancedMode": false,
+    "DebugMode":  false,
+    "FastTravelPoints": [
+         {
+          "Name": "Backwoods",
+          "pointX": 22,
+          "pointY": 15
+         },
+         {
+           "Name": "ElliottCabin",
+           "pointX": 49,
+           "pointY": 11
+         },
+         {
+           "Name": "FishShop_DefaultHours",
+           "pointX": 30,
+           "pointY": 34
+         },
+         {
+           "Name": "BusStop",
+           "pointX": 19,
+           "pointY": 11
+         },
+         {
+           "Name": "Desert",
+           "pointX": 35,
+           "pointY": 43
+         },
+         {
+           "Name": "Farm",
+           "pointX": 64,
+           "pointY": 15
+         },
+         {
+           "Name": "MarnieRanch",
+           "pointX": 90,
+           "pointY": 16
+         },
+         {
+           "Name": "LeahCottage",
+           "pointX": 104,
+           "pointY": 33
+         },
+         {
+           "Name": "WizardTower",
+           "pointX": 5,
+           "pointY": 27
+         },
+         {
+           "Name": "AbandonedHouse",
+           "pointX": 34,
+           "pointY": 96
+         },
+         {
+           "Name": "SewerPipe",
+           "pointX": 94,
+           "pointY": 100
+         },
+         {
+           "Name": "AdventureGuild",
+           "pointX": 6,
+           "pointY": 19
+         },
+         {
+           "Name": "Carpenter",
+           "pointX": 12,
+           "pointY": 26
+         },   {
+           "Name": "Mines",
+           "pointX": 54,
+           "pointY": 6
+         },
+         {
+           "Name": "Quarry",
+           "pointX": 0,
+           "pointY": 0
+         },
+         {
+           "Name": "Tent",
+           "pointX": 2,
+           "pointY": 5
+         },
+         {
+           "Name": "Railroad",
+           "pointX": 30,
+           "pointY": 47
+         },
+         {
+           "Name": "Spa",
+           "pointX": 10,
+           "pointY": 57
+         },
+         {
+           "Name": "SecretWoods",
+           "pointX": 0,
+           "pointY": 0
+         },
+         {
+           "Name": "AlexHouse",
+           "pointX": 57,
+           "pointY": 64
+         },
+         {
+           "Name": "Blacksmith",
+           "pointX": 5,
+           "pointY": 19
+         },
+         {
+           "Name": "CommunityCenter",
+           "pointX": 32,
+           "pointY": 23
+         },
+         {
+           "Name": "Graveyard",
+           "pointX": 46,
+           "pointY": 94
+         },
+         {
+          "Name": "JojaMart_Open",
+          "pointX": 96,
+          "pointY": 51
+         },
+         {
+          "Name": "PierreStore_InitialHours",
+          "pointX": 43,
+          "pointY": 57
+         },
+         {
+          "Name": "Hospital",
+          "pointX": 36,
+          "pointY": 56
+         },
+         {
+          "Name": "Trailer",
+          "pointX": 72,
+          "pointY": 69
+         },
+         {
+          "Name": "Saloon",
+          "pointX": 45,
+          "pointY": 71
+         },
+         {
+          "Name": "ManorHouse",
+          "pointX": 58,
+          "pointY": 86
+         },
+         {
+          "Name": "Museum",
+          "pointX": 101,
+          "pointY": 90
+         },
+         {
+          "Name": "HaleyHouse",
+          "pointX": 20,
+          "pointY": 89
+         },
+         {
+          "Name": "SamHouse",
+          "pointX": 10,
+          "pointY": 86
+         },
+         {
+          "Name": "TownSquare",
+          "pointX": 29,
+          "pointY": 67
+         },
+         {
+          "Name": "Sewer",
+          "pointX": 35,
+          "pointY": 97
+         }
+    ]
+  }
